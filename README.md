@@ -2,7 +2,7 @@
 
 By Gregory Adiprawira
 
-Video overview: <URL HERE>
+Video overview: <https://youtu.be/ZQUMjaz6G9I>
 
 ## Scope
 
